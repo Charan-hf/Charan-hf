@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Charan
+- 👋 Hi, I’m @Charan - Venakata Charanraj Lebaku
 - 👀 I’m interested in Data Engineering Topics
 - 🌱 I’m currently working in Data Core team - Data foundation tribe
 - 📫 Reach me on my slack channel
